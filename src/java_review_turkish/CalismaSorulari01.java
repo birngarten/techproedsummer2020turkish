@@ -185,6 +185,7 @@ F         F
 		System.out.println(num4);
 	
 	//GitHub'tan Eclipse'ye
+		//GitHub'tan Eclipse'ye 2
 		
 	}
 }
