@@ -9,7 +9,7 @@ public class CalismaSorulari01 {
 		System.out.println("Hello World");
 
 		
-		/*Aşağıdaki pascal üçgenini ekrana yazdıran bir program yazınız
+		/*AÅŸaÄŸÄ±daki pascal Ã¼Ã§genini ekrana yazdÄ±ran bir program yazÄ±nÄ±z
              1
            1   1
          1   2   1
@@ -23,7 +23,7 @@ public class CalismaSorulari01 {
 		System.out.println("1  4    6   4   1");
 		
 		
-		/*Aşağıdaki şekli ekrana yazdıran bir program yazınız
+		/*AÅŸaÄŸÄ±daki ÅŸekli ekrana yazdÄ±ran bir program yazÄ±nÄ±z
      A
     B B
    C   C
@@ -51,18 +51,18 @@ F         F
 		
 		
 		
-		//Sağlığpın için "Evde Kal" cümlesini ekranda yazdırınız.
+		//SaÄŸlÄ±ÄŸpÄ±n iÃ§in "Evde Kal" cÃ¼mlesini ekranda yazdÄ±rÄ±nÄ±z.
 		
 		
-		System.out.println("Sağlığın için \"Evde Kal\".");  // Burada bir ifadeyi tırnak içinde yazmak için "\" kullanmalıyız
+		System.out.println("SaÄŸlÄ±ÄŸÄ±n iÃ§in \"Evde Kal\".");  // Burada bir ifadeyi tÄ±rnak iÃ§inde yazmak iÃ§in "\" kullanmalÄ±yÄ±z
 		
 		
-		//Would you like 'coffee' or 'tea' ? cümlesini ekrana yazdırınız
+		//Would you like 'coffee' or 'tea' ? cÃ¼mlesini ekrana yazdÄ±rÄ±nÄ±z
 		
 		System.out.println("Would you like \'coffee\' or \'tea\' ?"); */
 		
 	
-		//double 10.231 i int'e cevirip ekrana yazdırınız.
+		//double 10.231 i int'e cevirip ekrana yazdÄ±rÄ±nÄ±z.
 		
 		/*double sayi = 10.231;
 		int i= (int) sayi;
@@ -120,12 +120,12 @@ F         F
 		System.out.println(5+15/3*2-8%3);
 		
 		
-		//Dikdörtgenin alanını ve çevresini bulunuz
-	//çevre = 2*(boy + en)
+		//DikdÃ¶rtgenin alanÄ±nÄ± ve Ã§evresini bulunuz
+	//Ã§evre = 2*(boy + en)
 	//alan = en * boy
 	double en = 5.6;
-    do//Dikdörtgenin alanını ve çevresini bulunuz
-	//çevre = 2*(boy + en)
+    do//DikdÃ¶rtgenin alanÄ±nÄ± ve Ã§evresini bulunuz
+	//Ã§evre = 2*(boy + en)
 	//alan = en * boy
 	double en = 5.6;
     double boy = 8.5;uble boy = 8.5;*/
@@ -134,7 +134,7 @@ F         F
 		double boy= 8.5;
 		
 		System.out.println("Alan ="+en*boy);
-		System.out.println("Çevre ="+(en+boy)*2);*/
+		System.out.println("Ã‡evre ="+(en+boy)*2);*/
 		
 		/*
 		
@@ -147,13 +147,13 @@ F         F
 		
 		
 		System.out.println("Alan ="+ alan);
-		System.out.println("Çevre =" +cevre);*/
+		System.out.println("Ã‡evre =" +cevre);*/
 		
 		
-		//Scanner ile kullanıcıdan 3 sayı girmesini isteyin ve bu sayıların toplamını yazdırınız.
-		//int kullanınız!
+		//Scanner ile kullanÄ±cÄ±dan 3 sayÄ± girmesini isteyin ve bu sayÄ±larÄ±n toplamÄ±nÄ± yazdÄ±rÄ±nÄ±z.
+		//int kullanÄ±nÄ±z!
 		
-		//System.out.println("Lutfen üc sayı giriniz");
+		//System.out.println("Lutfen Ã¼c sayÄ± giriniz");
 		
 		//Scanner scan = new Scanner(System.in);
 		
@@ -183,14 +183,8 @@ F         F
 		System.out.println(num2);
 		System.out.println(num3);
 		System.out.println(num4);
-		
-		
-		
-		
-		
-		
-		
+	
+	//GitHub'tan Eclipse'ye
 		
 	}
-
 }
