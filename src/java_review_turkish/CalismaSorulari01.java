@@ -186,6 +186,7 @@ F         F
 	
 	//GitHub'tan Eclipse'ye
 	//GitHub'tan Eclipse'ye 2
+//		Localdan GitHub'a
 		
 	}
 }
